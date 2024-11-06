@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
+- reach me (ind.laxmipriya@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
 
 <!---
 mummalaxmi/mummalaxmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
